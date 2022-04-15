@@ -1,0 +1,16 @@
+th {
+  background-color: yellow;
+}
+
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-family: 'Calibri';
+}
+
+.paymentTypeList {
+  display: flex;
+  flex-direction: column;
+}
